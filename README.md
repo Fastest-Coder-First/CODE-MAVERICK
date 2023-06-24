@@ -45,13 +45,13 @@ if weather_data:
 
 -->User Input and Output:Copilot can help with generating the code to prompt the user for input using input(). It might also suggest the format and placeholders for displaying the weather information using print().
 
-##THE ARCHITECTURAL FLOW OF THE CODE IS:
+# THE ARCHITECTURAL FLOW OF THE CODE IS:
 
 Weather Forecast CLI Tool
 
 This command line tool accepts a city name as input and returns the current weather forecast for that city. It leverages the OpenWeatherMap API to fetch weather data and parses it using Python.
 
-Architecture Flow:
+# Architecture Flow:
 
 1. User Input:
    - The tool prompts the user to enter a city name through the command line.
